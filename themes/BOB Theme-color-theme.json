@@ -28,7 +28,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#10d642"
+				"foreground": "#5fe681"
 			}
 		},
 		{
@@ -68,9 +68,10 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#fc82f4"
 			}
 		},
+
 		{
 			"name": "Operator, Misc",
 			"scope": [
@@ -88,7 +89,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#8cdbfa"
+				"foreground": "#5bffdb"
 			}
 		},
 		{
@@ -112,7 +113,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#92fddd"
+				"foreground": "#6abff8"
 			}
 		},
 		{
@@ -162,7 +163,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#eeae4e"
+				"foreground": "#96fc63"
 			}
 		},
 		{
@@ -178,7 +179,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#fdc65e"
 			}
 		},
 		{
