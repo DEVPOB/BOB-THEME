@@ -3,7 +3,8 @@
     "displayName": "BOB Theme",
     "publisher": "BOB-THEME",
     "description": "BOB THEME",
-    "version": "0.0.3",
+    "version": "0.0.5",
+    "icon": "logo.png",
     "engines": {
         "vscode": "^1.64.0"
     },
